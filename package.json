@@ -1,0 +1,15 @@
+{
+  "name": "js-and-backend-practice",
+  "version": "1.0.0",
+  "description": "A backend in javaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScrip",
+    "Backend"
+  ],
+  "author": "Suhaib Ahmed Shaikh",
+  "license": "ISC"
+}
