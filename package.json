@@ -2,6 +2,7 @@
   "name": "js-and-backend-practice",
   "version": "1.0.0",
   "description": "A backend in javaScript",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +12,8 @@
     "Backend"
   ],
   "author": "Suhaib Ahmed Shaikh",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
 }
